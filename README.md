@@ -10,6 +10,6 @@
 
 題目 | 解答 |
 |:-------:|:--------:|
-| or_and | [or_and](/or_and) |
+| E=(A+B)C | [or_and](/or_and) |
 
 [成果綜整 PDF](Verilog實作綜整.pdf)
