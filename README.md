@@ -11,5 +11,6 @@
 題目 | 解答 |
 |:-------:|:--------:|
 | [or_and](/or_and/README.md) | [github page](/or_and) |
+| [Circuit_Boolean_CA](/Circuit_Boolean_CA/README.md) | [github page](/Circuit_Boolean_CA) |
 
 [成果綜整 PDF](Verilog實作綜整.pdf)
