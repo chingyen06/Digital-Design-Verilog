@@ -1,0 +1,54 @@
+$date
+	Wed Nov 06 17:13:47 2024
+$end
+$version
+	Icarus Verilog
+$end
+$timescale
+	1ps
+$end
+$scope module and_or_prop_delay_tb $end
+$var wire 1 ! E $end
+$var wire 1 " D $end
+$var reg 1 # A $end
+$var reg 1 $ B $end
+$var reg 1 % C $end
+$scope module M_UUT $end
+$var wire 1 # A $end
+$var wire 1 $ B $end
+$var wire 1 % C $end
+$var wire 1 " D $end
+$var wire 1 ! E $end
+$var wire 1 & w1 $end
+$upscope $end
+$upscope $end
+$enddefinitions $end
+$comment Show the parameter values. $end
+$dumpall
+$end
+#0
+$dumpvars
+x&
+0%
+0$
+0#
+x"
+x!
+$end
+#10000
+1!
+#30000
+1"
+0&
+#100000
+1%
+1$
+1#
+#110000
+0!
+#130000
+0"
+1&
+#150000
+1"
+#200000
