@@ -12,5 +12,7 @@
 |:-------:|:--------:|
 | [or_and](/or_and/README.md) | [github page](/or_and) |
 | [Circuit_Boolean_CA](/Circuit_Boolean_CA/README.md) | [github page](/Circuit_Boolean_CA) |
+| [and_or_prop_delay](/and_or_prop_delay/README.md) | [github page](/and_or_prop_delay) |
+
 
 [成果綜整 PDF](Verilog實作綜整.pdf)
