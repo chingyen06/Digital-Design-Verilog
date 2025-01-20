@@ -1,0 +1,142 @@
+$date
+	Wed Nov 06 18:58:36 2024
+$end
+$version
+	Icarus Verilog
+$end
+$timescale
+	1ps
+$end
+$scope module Circuit_B_tb $end
+$var wire 1 ! F3 $end
+$var wire 1 " F2 $end
+$var wire 1 # F1 $end
+$var reg 1 $ A0 $end
+$var reg 1 % A1 $end
+$var reg 1 & B0 $end
+$var reg 1 ' B1 $end
+$scope module M_UUT $end
+$var wire 1 $ A0 $end
+$var wire 1 % A1 $end
+$var wire 1 & B0 $end
+$var wire 1 ' B1 $end
+$var wire 1 # F1 $end
+$var wire 1 " F2 $end
+$var wire 1 ! F3 $end
+$var wire 1 ( w1 $end
+$var wire 1 ) w2 $end
+$var wire 1 * w3 $end
+$var wire 1 + w4 $end
+$var wire 1 , w5 $end
+$var wire 1 - w6 $end
+$var wire 1 . w7 $end
+$upscope $end
+$upscope $end
+$enddefinitions $end
+$comment Show the parameter values. $end
+$dumpall
+$end
+#0
+$dumpvars
+1.
+1-
+1,
+0+
+0*
+1)
+0(
+0'
+0&
+0%
+0$
+0#
+1"
+0!
+$end
+#100000
+1!
+1(
+1+
+1'
+#200000
+0!
+0(
+0+
+0,
+0'
+1&
+#300000
+1(
+1*
+1+
+1'
+#400000
+1!
+0(
+0*
+1,
+0-
+0'
+0&
+1%
+#500000
+0!
+0+
+1'
+#600000
+1+
+0,
+0'
+1&
+#700000
+1*
+0+
+1'
+#800000
+1(
+0*
+1-
+1+
+0.
+0&
+0%
+1$
+#900000
+0(
+0+
+1,
+0'
+1&
+#1000000
+1!
+1(
+1+
+1'
+#1100000
+1#
+0"
+0!
+0(
+0)
+0,
+0-
+0'
+0&
+1%
+#1200000
+0+
+1'
+#1300000
+0#
+1"
+1!
+1+
+1)
+1,
+0'
+1&
+#1400000
+0!
+0+
+1'
+#1500000
