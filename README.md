@@ -14,6 +14,7 @@
 | [Circuit_Boolean_CA](/Circuit_Boolean_CA/README.md) | [github page](/Circuit_Boolean_CA) |
 | [and_or_prop_delay](/and_or_prop_delay/README.md) | [github page](/and_or_prop_delay) |
 | [UDP_02467](/UDP_02467/README.md) | [github page](/UDP_02467) |
-
+| [Circuit_A](/Circuit_A/README.md) | [github page](/Circuit_A) |
+| [Circuit_B](/Circuit_B/README.md) | [github page](/Circuit_B) |
 
 [成果綜整 PDF](Verilog實作綜整.pdf)
