@@ -1,0 +1,46 @@
+$date
+	Wed Nov 06 19:20:19 2024
+$end
+$version
+	Icarus Verilog
+$end
+$timescale
+	1ps
+$end
+$scope module Circuit_C_tb $end
+$var wire 1 ! y3 $end
+$var wire 1 " y2 $end
+$var wire 1 # y1 $end
+$var reg 1 $ a $end
+$var reg 1 % b $end
+$scope module M_UUT $end
+$var wire 1 $ a $end
+$var wire 1 % b $end
+$var wire 1 # y1 $end
+$var wire 1 " y2 $end
+$var wire 1 ! y3 $end
+$upscope $end
+$upscope $end
+$enddefinitions $end
+$comment Show the parameter values. $end
+$dumpall
+$end
+#0
+$dumpvars
+0%
+0$
+0#
+0"
+0!
+$end
+#100000
+1#
+1%
+#200000
+0%
+1$
+#300000
+1"
+1!
+1%
+#400000
