@@ -16,5 +16,6 @@
 | [UDP_02467](/UDP_02467/README.md) | [github page](/UDP_02467) |
 | [Circuit_A](/Circuit_A/README.md) | [github page](/Circuit_A) |
 | [Circuit_B](/Circuit_B/README.md) | [github page](/Circuit_B) |
+| [Circuit_C](/Circuit_C/README.md) | [github page](/Circuit_C) |
 
 [成果綜整 PDF](Verilog實作綜整.pdf)
